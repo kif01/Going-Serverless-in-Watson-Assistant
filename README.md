@@ -1,5 +1,5 @@
 # Going-Serverless-in-Watson-Assistant
-This repo contains assets for a webinar that shows how to build a Watson Assistant chatbot integrated with IBM Cloud Functions
+This repo contains assets for a webinar that shows how to build a Watson Assistant chatbot integrated with IBM Cloud Functions.
 
 # Instructions
 1- Log in to your [IBM Cloud Account](https://cloud.ibm.com/login) <br>
