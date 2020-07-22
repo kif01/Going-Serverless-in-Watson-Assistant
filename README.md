@@ -13,4 +13,4 @@ This repo contains assets for a webinar that shows how to build a Watson Assista
 8- Change the parameters values to the values you have in your COS credentials <br>
 9- Copy the public endpoint of this action and put it in the Watson Assistant Webhook under Options <br>
 
-**Click [Here](https://khalil-faraj.gitbook.io/go-serverless-with-watson-assistant/) for the full detailed step-by-step instructions** 
+**Click [Here](https://khalil-faraj.gitbook.io/go-serverless-with-watson-assistant/) for the complete detailed step-by-step instructions** 
