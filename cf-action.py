@@ -38,12 +38,12 @@ def main(dict):
 def getAccount(dict):
     response={"result":""}
     if dict['accountID'] == 11111111 and dict['OTP'] == 123:
-        response["result"]="Welcome Mike Hudson\nAccount Type: Personal Account\nAccount No:11111111"
+        response["result"]="Welcome Mike Hudson\nAccount No:11111111"
         
         
       
     elif dict['accountID'] == 22222222 and dict['OTP'] == 456 :
-        response["result"] = "Welcome Etisalat\nAccount Type: Buisness Account\nAccount No:22222222"
+        response["result"] = "Welcome Veronica Gomez\nAccount No:22222222"
    
          
     else:
