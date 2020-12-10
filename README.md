@@ -2,7 +2,7 @@
 This repo contains assets for a webinar that shows how to build a Watson Assistant chatbot integrated with IBM Cloud Functions.
 
 # Instructions
-1- Log in to your [IBM Cloud Account](https://cloud.ibm.com/login) <br>
+1- Log in to your [IBM Cloud Account](ibm.biz/ServerlessAssistantV2) <br>
 2- Create a Watson Assistant service <br>
 3- Import the **skill-Dialog.json** file from this repo <br>
 4- Create a Cloud Object Storage Instance <br>
