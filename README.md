@@ -15,4 +15,4 @@ This repo contains assets for a webinar that shows how to build a Watson Assista
 
 **Click [Here](https://khalil-faraj.gitbook.io/go-serverless-with-watson-assistant/) for the complete detailed step-by-step instructions** 
 
-**Click [Here] to watch the recording of this webinar [https://www.crowdcast.io/e/serverless-chatbots-2]
+
