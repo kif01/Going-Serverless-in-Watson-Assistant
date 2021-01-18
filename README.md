@@ -4,7 +4,7 @@ This repo contains assets for a webinar that shows how to build a Watson Assista
 # Instructions
 1- Log in to your [IBM Cloud Account](https://ibm.biz/ServerlessAssistantV2) <br>
 2- Create a Watson Assistant service <br>
-3- Import the **skill-Dialog.json** file from this repo <br>
+3- Import the **dialog.json** file from this repo <br>
 4- Create a Cloud Object Storage Instance *(Optional)* <br>
 5- Create a bucket in this COS instance *(Optional)* <br>
 6- Upload the **plans.csv** file in the bucket *(Optional)* <br> 
