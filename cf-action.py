@@ -61,7 +61,7 @@ def getEntityDescriptionFromCSV(entity, dict):
     ibm_api_key_id= dict['api_key'],
     ibm_service_instance_id= dict['service_instance_id'],
     config=Config(signature_version='oauth'),
-    endpoint_url= dict['endpoint_url'])
+    endpoint_url= "https://" + dict['endpoint_url'])
     
     body = client.get_object(Bucket= dict['bucket_name'],Key=dict ['file_name'])['Body']
     if not hasattr(body, "__iter__"): body.__iter__ = types.MethodType( __iter__, body )
