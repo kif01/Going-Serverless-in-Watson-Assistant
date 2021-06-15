@@ -2,7 +2,7 @@
 This repo contains assets for a webinar that shows how to build a Watson Assistant chatbot integrated with IBM Cloud Functions.
 
 # Architecture Flow
-<img width="809" alt="Screen Shot 2020-07-20 at 3 28 39 AM" src="https://user-images.githubusercontent.com/15332386/122041699-48104800-cdea-11eb-804c-7667f094ea04.png">
+<img width="609" alt="Screen Shot 2020-07-20 at 3 28 39 AM" src="https://user-images.githubusercontent.com/15332386/122041699-48104800-cdea-11eb-804c-7667f094ea04.png">
 
 
 # Instructions
